@@ -8,6 +8,7 @@ import copy
 import random
 import csv
 from datetime import datetime
+
 class ProcessSchedulingSimulator:
     def __init__(self, master):
         self.master = master
