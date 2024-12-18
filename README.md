@@ -63,7 +63,9 @@ The simulator supports five key scheduling algorithms:
 
 ## Screenshots
 
-[Include screenshots of the application UI and Gantt charts]
+![Process Scheduling UI](./screenshots/main_app.png)
+![Process Scheduling UI](./screenshots/gantt_chart.png)
+![Process Scheduling UI](./screenshots/comparison_table.png)
 
 ## Performance Metrics
 
